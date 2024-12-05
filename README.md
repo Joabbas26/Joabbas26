@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Joab Bastidas</h1>
 <p>A passionate frontend developer from New York, NY</p>
-# 💫 About Me:<br><br>
+# 💫 About Me:<br>
 🏆 Currently working on my Bachelors in Mathematics<br>💻 Learning Backend Web Development with NodeJS<br>🚀 Passionate about Machine Learning with TensorFlow<br>
 
 <h2> Languages and Tools I Use</h2>
